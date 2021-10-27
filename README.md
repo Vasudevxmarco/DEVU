@@ -1,4 +1,4 @@
-# Sophia
+# DEVU
 Simple whatsapp bot | Reedited from whatsasena 
 
 
